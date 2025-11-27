@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mohammadnajm/instant-image-converter/compare/1.1.0...1.1.1) (2025-11-27)
+
+
+### Bug Fixes
+
+* add DATABASE_URL into .env file ([7461438](https://github.com/mohammadnajm/instant-image-converter/commit/7461438b45fdad4129a7eeaa5756c74aa6f1341e))
+
 # [1.1.0](https://github.com/mohammadnajm/instant-image-converter/compare/1.0.0...1.1.0) (2025-09-09)
 
 
