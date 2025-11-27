@@ -457,7 +457,7 @@ const files = ref([]) // { id, file, previewUrl, status, uploadPct, processPct, 
 const target = ref('jpg')
 const quality = ref(90)
 const isConverting = ref(false)
-const repoUrl = (useRuntimeConfig().public?.githubRepo) || 'https://github.com/yourname/file-converter'
+const repoUrl = (useRuntimeConfig().public?.githubRepo) || 'https://github.com/mohammadnajm/instant-image-converter'
 
 const showQuality = computed(() => ['jpg', 'webp', 'avif'].includes(target.value))
 
