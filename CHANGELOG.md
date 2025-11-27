@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/mohammadnajm/instant-image-converter/compare/1.1.1...1.1.2) (2025-11-27)
+
+
+### Bug Fixes
+
+* update github link ([da95155](https://github.com/mohammadnajm/instant-image-converter/commit/da951557ebb77c7f4659f43248890d52f871a84d))
+
 ## [1.1.1](https://github.com/mohammadnajm/instant-image-converter/compare/1.1.0...1.1.1) (2025-11-27)
 
 
